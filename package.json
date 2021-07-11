@@ -1,0 +1,14 @@
+{
+  "name": "hackday-l-twitter",
+  "version": "1.0.0",
+  "description": "2018 Hackday - Team L Twitter App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node www"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "https": "^1.0.0",
+    "twitter": "^1.7.1"
+  }
+}
